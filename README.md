@@ -1,4 +1,4 @@
-# FinAudit AI 🚀
+# FinAudit AI (AI FINANCE AUDIT SYSTEM)
 
 FinAudit AI is a premium, open-source AI-powered financial auditing system. It helps organizations monitor their expenditures, detect anomalies, and chat with an AI agent to understand financial risks.
 
